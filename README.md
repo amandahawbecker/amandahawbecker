@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amanda Hawbecker
 =========================================================================================================================================
 
-CS Student @ Frostburg State | Spring 2026 Grad | Local Link Startup Cofounder | Prev NSF ML Research Intern | Full Stack Development
+CS Student @ Frostburg State University | Spring 2026 Grad | Local Link Startup Cofounder | Prev NSF ML Research Intern | Full Stack Development
 ---------------------------------------------------------------------------------------------------------------
 
 Computer Science and data science student with experience in machine learning, cybersecurity research, and full-stack development. Interested in building intelligent systems, exploring neuroevolution and reinforcement learning, and applying AI to real-world challenges.
