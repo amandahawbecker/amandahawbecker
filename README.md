@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ Frostburg State, Local Link Startup Cofounder, Prev NSF ML Research Intern, Full Stack Development
 ---------------------------------------------------------------------------------------------------------------
 
-Computer Science student with experience in machine learning, cybersecurity research, and full-stack development. Interested in building intelligent systems, exploring neuroevolution and reinforcement learning, and applying AI to real-world challenges.
+Computer Science student @ Frostburg State University with experience in machine learning, cybersecurity research, and full-stack development. Interested in building intelligent systems, exploring neuroevolution and reinforcement learning, and applying AI to real-world challenges.
 
 Currently pursuing entrepreneurial efforts to launch Local Link, a community-driven app that connects people with local businesses, events, and experiences that are driven by local recommendations so everyone can live like a local.
 
