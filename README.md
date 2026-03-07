@@ -36,18 +36,30 @@ Currently pursuing entrepreneurial efforts to launch Local Link, a community-dri
 ### Badges
 
 <b>My GitHub Stats</b>
-<p align="left">
-  <a href="http://www.github.com/amandahawbecker">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandahawbecker&show_icons=true&hide=issues,prs&count_private=true&include_all_commits=true&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/amandahawbecker">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandahawbecker&langs_count=10&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" height="150" alt="Top Languages" />
-  </a>
-</p>
+
+<a href="https://github.com/amandahawbecker"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandahawbecker&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" /></a>
+
+<a href="http://www.github.com/amandahawbecker"><img src="https://github-readme-stats.vercel.app/api?username=amandahawbecker&show_icons=true&hide=issues,prs&count_private=true&include_all_commits=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true" alt="Amanda's GitHub stats" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amandahawbecker&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandahawbecker/amandahawbecker/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandahawbecker/amandahawbecker/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/amandahawbecker/amandahawbecker/output/github-snake.svg" />
+</picture>
 
 <b>Top Repositories</b>
-<p align="left">
-  <a href="https://github.com/amandahawbecker/SSBU_Characters__Win_Probability">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=amandahawbecker&repo=SSBU_Characters__Win_Probability&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="Pinned Repo" />
+
+<div width="100%" align="center">
+  <a href="https://github.com/amandahawbecker/SSBU_Characters__Win_Probability" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amandahawbecker&repo=SSBU_Characters__Win_Probability&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&cache_seconds=1800" />
   </a>
-</p>
+  <a href="https://github.com/amandahawbecker/Job-Journey" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amandahawbecker&repo=Job-Journey&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&cache_seconds=1800" />
+  </a>
+</div>
+
+<br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/amandahawbecker/SSBU_Characters__Win_Probability" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=amandahawbecker&repo=SSBU_Characters__Win_Probability&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
