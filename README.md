@@ -28,7 +28,7 @@ Currently pursuing entrepreneurial efforts to launch Local Link, a community-dri
 ### Resume
 
 <p align="left">
-  <a href="https://github.com/amandahawbecker/amandahawbecker/raw/main/resume.pdf" target="_blank">
+  <a href="https://github.com/amandahawbecker/amandahawbecker/raw/main/Resume_Spring2026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-14b8a6?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume" />
   </a>
 </p>
