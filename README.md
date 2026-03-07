@@ -17,6 +17,7 @@ Currently pursuing entrepreneurial efforts to launch Local Link, a community-dri
 </p>
 
 ### Socials
+
 <p align="left">
   <a href="https://www.github.com/amandahawbecker" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/amanda-hawbecker" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
@@ -24,12 +25,20 @@ Currently pursuing entrepreneurial efforts to launch Local Link, a community-dri
   <a href="https://www.instagram.com/amanda.hawbecker" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
 </p>
 
+### Resume
+
+<p align="left">
+  <a href="https://github.com/amandahawbecker/amandahawbecker/raw/main/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-14b8a6?style=for-the-badge&logo=readme&logoColor=white" alt="Download Resume" />
+  </a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 <p align="left">
   <a href="http://www.github.com/amandahawbecker">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandahawbecker&show_icons=true&count_private=true&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="GitHub stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amandahawbecker&show_icons=true&hide=issues,prs&count_private=true&include_all_commits=true&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="GitHub stats" />
   </a>
   <a href="https://github.com/amandahawbecker">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandahawbecker&langs_count=10&title_color=14b8a6&text_color=a855f7&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" height="150" alt="Top Languages" />
